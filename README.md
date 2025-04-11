@@ -13,5 +13,6 @@ Describe the work your team does
 
 Diagram my branching strategy
 
-![GitChart drawio (1)](https://github.com/user-attachments/assets/e496ebce-5f15-43c1-97cb-142700774985)
+![GitChart drawio (1)](https://github.com/user-attachments/assets/04f38be8-1d45-4c7e-84b7-d0e6c637687e)
+
 
