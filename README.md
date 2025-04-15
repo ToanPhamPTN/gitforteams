@@ -1,6 +1,8 @@
 # gitforteams
 How to
-Describe the work your team does
+
+Describe the work your team does and map my network of repositories.
+
 + The (Devs - Lead Dev, Scrum master, or Operators) will initialize a Master branch
 + From the Master branch, the (Devs- Lead Dev, Scrum master, or Operators) creates a Develop branch
 + From the Developer branch, 3 developers will create a new branch to create new one or more Feature Branch
