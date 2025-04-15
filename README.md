@@ -44,7 +44,7 @@ Defend what gets stored in the repo.
 
 Simulate delivery plan
 
-  1 development deployment after 2 weeks (1 Feature Package/2 weeks - develop branch) 
-  2 release deployment after 4 weeks (1 Patch Package/4 weeks - release branch)
-  3 production deployment after 3 months (1 Production Package/3 months - master branch)
++ 1 development deployment after 2 weeks (1 Feature Package/2 weeks - develop branch)   
++ 2 release deployment after 4 weeks (1 Patch Package/4 weeks - release branch)
++ 3 production deployment after 3 months (1 Production Package/3 months - master branch)
 
