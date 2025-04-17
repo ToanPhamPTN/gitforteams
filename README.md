@@ -42,9 +42,9 @@ Defend what gets stored in the repo.
 
 ![Screenshot_43](https://github.com/user-attachments/assets/35398a1d-ceff-4b62-9ebe-39f89ec73ca3)
 
-Simulate delivery plan
+Simulate delivery plan 
 
-+ 1 development deployment after 2 weeks (1 Feature Package/2 weeks - develop branch)   
-+ 2 release deployment after 4 weeks (1 Patch Package/4 weeks - release branch)
-+ 3 production deployment after 3 months (1 Production Package/3 months - master branch)
++ development deployment (Develop branch) after 2 weeks - Branch Feature merged into the Develop branch
++ release deployment (Release branch) after 4 weeks - Develop branch merge feature into Release branch  and deploy Release branch for testing purposes 
++ production deployment (Master branch) after 3 months - Release branch will merge into Master branch (the Master branch will be tagged for the new version) and deploy Master branch into production
 
