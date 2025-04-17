@@ -44,7 +44,7 @@ Defend what gets stored in the repo.
 
 Simulate delivery plan 
 
-+ development deployment (Develop branch) after 2 weeks - Branch Feature merged into the Develop branch
-+ release deployment (Release branch) after 4 weeks - Develop branch merge feature into Release branch  and deploy Release branch for testing purposes 
-+ production deployment (Master branch) after 3 months - Release branch will merge into Master branch (the Master branch will be tagged for the new version) and deploy Master branch into production
++ development deployment (Develop branch) after 2 weeks - pull request created for Branch Feature, approved and merged into the Develop branch
++ release deployment (Release branch) after 4 weeks -  pull request created for Branch Feature, approved and merged into Release branch, and deploy Release branch for testing purposes 
++ production deployment (Master branch) after 3 months - pull request created for Branch Feature, approved and merged into Master branch (the Master branch will be tagged for the new version), and deploy the Master branch into production
 
